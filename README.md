@@ -2,5 +2,4 @@ This college coursework delves into various aspects of complex signal analysis. 
 
 We have also included slide presentations on these topics, saved as PDF files, to serve as supplementary teaching resources.
 
-City College Plymouth, England
-07.05.2024
+City College Plymouth, England, 07.05.2024
