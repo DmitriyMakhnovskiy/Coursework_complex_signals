@@ -1,0 +1,21 @@
+Circuit: * E:\Dropbox\Dima\Teaching courses and tutorials\Plymouth City College\1081\Complex Signals\LTspice_for_complex_waveforms\LTspice\Parabola.asc
+
+Direct Newton iteration for .op point succeeded.
+
+Date: Wed Feb 28 20:23:06 2024
+Total elapsed time: 0.162 seconds.
+
+tnom = 27
+temp = 27
+method = modified trap
+totiter = 6129
+traniter = 6126
+tranpoints = 3064
+accept = 1978
+rejected = 1086
+matrix size = 32
+fillins = 0
+solver = Normal
+Matrix Compiler1: 618 bytes object code size  0.2/0.1/[0.0]
+Matrix Compiler2: 1.77 KB object code size  0.3/0.4/[0.2]
+
